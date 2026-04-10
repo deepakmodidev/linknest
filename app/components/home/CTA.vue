@@ -34,7 +34,7 @@
               </UButton>
               
               <UButton
-                to="https://github.com/decodewithdeepak/linknest"
+                to="https://github.com/deepakmodidev/linknest"
                 target="_blank"
                 size="lg"
                 variant="ghost"

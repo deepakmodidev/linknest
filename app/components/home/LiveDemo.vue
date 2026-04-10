@@ -32,7 +32,7 @@
             <input
               v-model="inputUrl"
               type="text"
-              placeholder="https://deepakmodi.tech"
+              placeholder="https://deepakmodi.dev"
               @keyup.enter="handleAddLink"
               :disabled="isLoading"
               class="w-full px-4 py-3 pr-24 rounded-lg border border-black/10 dark:border-white/30 bg-white/60 dark:bg-white/10 backdrop-blur-sm text-sm focus:outline-none focus:ring-1 focus:ring-primary/50 focus:border-primary/50 transition-all placeholder:text-muted-foreground/50 disabled:opacity-50"
@@ -205,7 +205,7 @@ const demoLinks = ref<DemoLink[]>([])
 
 const exampleUrls = [
   { label: 'https://github.com', url: 'https://github.com' },
-  { label: 'https://deepakmodi.tech', url: 'https://deepakmodi.tech' },
+  { label: 'https://deepakmodi.dev', url: 'https://deepakmodi.dev' },
   { label: 'https://notion.so', url: 'https://notion.so' },
   { label: 'https://youtube.com', url: 'https://youtube.com' },
 //   { label: 'https://linear.app', url: 'https://linear.app' },

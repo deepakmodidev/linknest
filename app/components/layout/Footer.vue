@@ -17,7 +17,7 @@
           <!-- Social Links -->
           <div class="flex items-center gap-4">
             <a
-              href="https://github.com/decodewithdeepak/linknest"
+              href="https://github.com/deepakmodidev/linknest"
               target="_blank"
               class="w-10 h-10 rounded-lg border border-border bg-background hover:bg-primary/5 hover:border-primary/30 flex items-center justify-center transition-all"
               aria-label="GitHub"
@@ -25,7 +25,7 @@
               <Icon name="i-simple-icons-github" class="h-5 w-5" />
             </a>
             <a
-              href="https://twitter.com/decodewithdeepak"
+              href="https://twitter.com/deepakmodidev"
               target="_blank"
               class="w-10 h-10 rounded-lg border border-border bg-background hover:bg-primary/5 hover:border-primary/30 flex items-center justify-center transition-all"
               aria-label="Twitter"
@@ -77,7 +77,7 @@
               </a>
             </li>
             <li>
-              <a href="https://github.com/decodewithdeepak/linknest" target="_blank" class="text-foreground hover:text-primary transition-colors inline-flex items-center gap-1 group">
+              <a href="https://github.com/deepakmodidev/linknest" target="_blank" class="text-foreground hover:text-primary transition-colors inline-flex items-center gap-1 group">
                 <Icon name="i-simple-icons-github" class="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
                 GitHub
               </a>
@@ -92,7 +92,7 @@
         © {{ new Date().getFullYear() }} LinkNest. Built with 
         <span class="text-primary">♥</span> 
         by 
-        <a href="https://deepakmodi.tech" target="_blank" class="text-primary hover:underline">Deepak Modi</a>
+        <a href="https://deepakmodi.dev" target="_blank" class="text-primary hover:underline">Deepak Modi</a>
       </p>
       
       <div class="flex items-center gap-3">
